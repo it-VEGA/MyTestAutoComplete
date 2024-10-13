@@ -1,10 +1,13 @@
 import pyautogui
 import time
 import json
+import os
+
+path = "items/english.json"
 
 checkbox_coord = [(192,396),(192,519),(195,642),(195,766)]
 text_area = [(339,366),(314,486),(380,610),(251,996)]
-with open('items/english.json', 'r', encoding='utf-8') as file:
+with open(path, 'r', encoding='utf-8') as file:
     data = json.load(file)
     print(len(data['questions']))
 
@@ -30,16 +33,15 @@ def add_question():
                 pyautogui.click(checkbox_coord[i])
         pyautogui.moveTo(251,996)
         pyautogui.click()
+time.sleep(3)
+pyautogui.moveTo(12,33)
+pyautogui.click()
+pyautogui.moveTo(92,135)
+pyautogui.click()
 
-# coord()
-add_question()
+pyautogui.write(f'{os.path.basename(path)[-4:]}.mtf')
+pyautogui.moveTo(1757,1002)
+pyautogui.click()
 
-        # pyautogui.moveTo(339,366)
-        # pyautogui.click()
-        # pyautogui.typewrite(question['options'][0].replace('+',''))
-        # pyautogui.moveTo(314,486)
-        # pyautogui.click()
-        # pyautogui.typewrite(question['options'][1])
-        # pyautogui.moveTo(380,610)
-        # pyautogui.click()
-        # pyautogui.typewrite(question['options'][2])
+coord()
+# add_question()
