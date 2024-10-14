@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Every day Jason ______________ (play) football with his friends.",
+      "options": ["Play", "+Plays", "Is playing", "To play"]
+    },
+    {
+      "id": 2,
+      "question": "Water ___________________ (boil) at 100°C.",
+      "options": ["Boil", "+Boils", "To boil", "Is boiling"]
+    },
+    {
+      "id": 3,
+      "question": "I see you ___________________ (have) a new mobile phone.",
+      "options": ["Have", "Has", "Am having", "To have"]
+    },
+    {
+      "id": 4,
+      "question": "Aya ______________ classical music to jazz and pop.",
+      "options": ["Prefer", "To prefer", "+Prefers", "Preferring"]
+    },
+    {
+      "id": 5,
+      "question": "The Browns ______________ of going to the theatre tonight.",
+      "options": ["To think", "+Think", "Thinks", "Are thinking"]
+    },
+    {
+      "id": 6,
+      "question": "He painted the Mona Lisa.",
+      "options": ["Alexander Graham Bell", "+Leonardo da Vinci", "William Shakespeare", "The Vikings"]
+    },
+    {
+      "id": 7,
+      "question": "He invented the telephone.",
+      "options": ["+Alexander Graham Bell", "Leonardo da Vinci", "Yuri Gagarin", "The Wright brothers"]
+    },
+    {
+      "id": 8,
+      "question": "Where _____________________ (you/spend) your summer holidays?",
+      "options": ["Do / spend", "Does / spend", "+Did / spend", "Spent"]
+    },
+    {
+      "id": 9,
+      "question": "I haven’t seen Sarah__________ 2007.",
+      "options": ["For", "+Since", "Just", "Already"]
+    },
+    {
+      "id": 10,
+      "question": "I ___________________ (not/unpack) yet.",
+      "options": ["Didn’t unpack", "Don’t unpack", "+Haven’t unpacked", "Hasn’t unpacked"]
+    },
+    {
+      "id": 11,
+      "question": "What has legs but cannot walk?",
+      "options": ["+A chair", "A mirror", "A dress", "A book"]
+    },
+    {
+      "id": 12,
+      "question": "This apple pie _______________ delicious!",
+      "options": ["Taste", "+Tastes", "Is tasting", "To taste"]
+    },
+    {
+      "id": 13,
+      "question": "Tommy usually ________________ his homework after lunch.",
+      "options": ["Do", "+Does", "Doing", "To do"]
+    },
+    {
+      "id": 14,
+      "question": "He always / has / to travel abroad / wanted",
+      "options": ["He always has to travel abroad.", "He has always to travel abroad wanted.", "+He has always wanted to travel abroad.", "He has wanted always to travel abroad."]
+    },
+    {
+      "id": 15,
+      "question": "red/plastic/huge shoes",
+      "options": ["red, plastic, huge", "plastic, red, huge", "+huge, red, plastic", "huge, plastic, red"]
+    },
+    {
+      "id": 16,
+      "question": "a(n) modern / luxurious I Italian car",
+      "options": ["+a luxurious, modern, Italian car", "Italian a luxurious, modern car", "An Italian, modern, luxurious car", "A modern, luxurious, Italian car"]
+    },
+    {
+      "id": 17,
+      "question": "goes to work / by bus / never / Diego",
+      "options": ["Diego goes never to work by bus.", "Diego never goes by bus to work.", "Diego goes to work by bus never.", "+Diego never goes to work by bus."]
+    },
+    {
+      "id": 18,
+      "question": "You’ll find me in Mercury, Earth, Mars, Jupiter, Saturn, and Uranus. But never Neptune, or Venus. What am I?",
+      "options": ["Air", "+The letter “R”.", "The future", "A telephone"]
+    },
+    {
+      "id": 19,
+      "question": "I have lakes without water. Mountains without stone. And cities without buildings. What am I?",
+      "options": ["+A map", "Air", "The letter “R”.", "The future"]
+    },
+    {
+      "id": 20,
+      "question": "Steve’s voice is _______________  than Tim’s.",
+      "options": ["Loud", "Loudest", "+Louder", "The loudest"]
+    },
+    {
+      "id": 21,
+      "question": "The cheetah is _____________________ animal in the world.",
+      "options": ["Fast", "Faster", "Fastest", "+The fastest"]
+    },
+    {
+      "id": 22,
+      "question": "It’s  _______________  house I have ever seen.",
+      "options": ["Nice", "Nicer", "+The nicest", "Nicest"]
+    },
+    {
+      "id": 23,
+      "question": "They are _____________ people I have ever met.",
+      "options": ["Friendly", "Friendlier", "Friendliest", "+The friendliest"]
+    },
+    {
+      "id": 24,
+      "question": "What has hands but can’t clap?",
+      "options": ["+Clock", "Bird", "Animal", "Chair"]
+    },
+    {
+      "id": 25,
+      "question": "This is the hottest season.",
+      "options": ["Spring", "+Summer", "Fall", "Winter"]
+    },
+    {
+      "id": 26,
+      "question": "This is when it rains too much, and there’s water in the streets and buildings.",
+      "options": ["Drought", "Monsoon", "+Flood", "Thunder"]
+    },
+    {
+      "id": 27,
+      "question": "A _________ helps us see at night.",
+      "options": ["Backpack", "Tent", "water bottle", "+flashlight"]
+    },
+    {
+      "id": 28,
+      "question": "We can sleep in a _____________ when we don’t have a bed.",
+      "options": ["+sleeping bag", "Backpack", "flashlight", "water bottle"]
+    },
+    {
+      "id": 29,
+      "question": "I’m tall when I’m young and I’m short when I’m old. What am I?",
+      "options": ["Plate", "+Candle", "Towel", "Spider"]
+    }
+  ]
+}

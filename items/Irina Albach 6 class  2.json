@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Translate into English “наводнение”.",
+      "options": ["Moon", "Sun", "+Flood", "Drought"]
+    },
+    {
+      "id": 2,
+      "question": "How many months are there in a year?",
+      "options": ["Nine", "Ten", "+Twelve", "Four"]
+    },
+    {
+      "id": 3,
+      "question": "Kate is 20 years old and she … in Moscow.",
+      "options": ["+Lives", "Lived", "From", "Works"]
+    },
+    {
+      "id": 4,
+      "question": "Mike _____ to school every day.",
+      "options": ["go", "+goes", "went", "gone"]
+    },
+    {
+      "id": 5,
+      "question": "Mike ______ read books every day.",
+      "options": ["+Doesn't", "Don't", "didn't", "won't"]
+    },
+    {
+      "id": 6,
+      "question": "In winter the weather is …",
+      "options": ["warm", "+cold", "cool", "hot"]
+    },
+    {
+      "id": 7,
+      "question": "Winter months are",
+      "options": ["June, July, August", "September, October, November", "+December, January, February", "March, April, May"]
+    },
+    {
+      "id": 8,
+      "question": "Jane usually … her homework after lunch.",
+      "options": ["Is doing", "Do", "Play", "+Does"]
+    },
+    {
+      "id": 9,
+      "question": "Translate into English “тарелка”.",
+      "options": ["Flashlight", "Map", "+Plate", "Backpack"]
+    },
+    {
+      "id": 10,
+      "question": "What can help you to find your way home?",
+      "options": ["Tent", "Sleeping bag", "Water bottle", "+Map"]
+    },
+    {
+      "id": 11,
+      "question": "What is the Russian for «desert»?",
+      "options": ["тайга", "+пустыня", "степь", "горы"]
+    },
+    {
+      "id": 12,
+      "question": "Aziza … a film at the moment.",
+      "options": ["+is watching", "watches", "watched", "Has watched"]
+    },
+    {
+      "id": 13,
+      "question": "My mother is cooking lunch …",
+      "options": ["+now", "yesterday", "tomorrow", "next week"]
+    },
+    {
+      "id": 14,
+      "question": "Children ______ having a lesson now.",
+      "options": ["don't", "doesn't", "+aren't", "didn't"]
+    },
+    {
+      "id": 15,
+      "question": "Shadows aren’t just black. They’re darker in the center and ________ outside.",
+      "options": ["+lighter", "darker", "smaller", "brighter"]
+    },
+    {
+      "id": 16,
+      "question": "This film is ___ than that one.",
+      "options": ["interesting", "+more interesting", "the most interesting", "interester"]
+    },
+    {
+      "id": 17,
+      "question": "I ___ to school next week.",
+      "options": ["+won’t go", "don’t go", "didn’t go", "aren’t go"]
+    },
+    {
+      "id": 18,
+      "question": "There is not any rain in ________.",
+      "options": ["Monsoon season", "+Drought", "Fall", "Flood"]
+    },
+    {
+      "id": 19,
+      "question": "Can you _____ the window?",
+      "options": ["+open", "opening", "opened", "opens"]
+    },
+    {
+      "id": 20,
+      "question": "Look! My sister  ___ her homework.",
+      "options": ["did", "had done", "does", "+is doing"]
+    },
+    {
+      "id": 21,
+      "question": "I _________ the flowers yesterday.",
+      "options": ["water", "am watering", "waters", "+watered"]
+    },
+    {
+      "id": 22,
+      "question": "I ____________ to play football tomorrow.",
+      "options": ["+am going", "are going", "to be going", "was going"]
+    },
+    {
+      "id": 23,
+      "question": "I …… buy a new car next week.",
+      "options": ["+will", "am", "did", "do"]
+    },
+    {
+      "id": 24,
+      "question": "There are … weeks in a month.",
+      "options": ["+Four", "Five", "Six", "Seven"]
+    },
+    {
+      "id": 25,
+      "question": "Where ______ you ______ at the moment?",
+      "options": ["are / go", "+are / going", "is / going", "do/going"]
+    },
+    {
+      "id": 26,
+      "question": "Jane ______ riding her bike.",
+      "options": ["is not liking", "+does not like", "is not like", "does not liking"]
+    },
+    {
+      "id": 27,
+      "question": "Translate into English “тарелка”.",
+      "options": ["+plate", "camping", "need", "hope"]
+    },
+    {
+      "id": 28,
+      "question": "Translate into English “тень”.",
+      "options": ["side", "+shadow", "ball", "house"]
+    },
+    {
+      "id": 29,
+      "question": "I think I _____ buy this dress.",
+      "options": ["is going to be", "+will", "will be", "be will"]
+    },
+    {
+      "id": 30,
+      "question": "I think it ….. be rainy tomorrow.",
+      "options": ["did", "does", "is", "+will"]
+    }
+  ]
+}

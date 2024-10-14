@@ -1,0 +1,154 @@
+{
+  "questions": [
+      {
+          "id": 1,
+          "question": "He ___ at the moment.",
+          "options": ["works", "+is working", "worked", "will work"]
+      },
+      {
+          "id": 2,
+          "question": "They ___ to the cinema every week.",
+          "options": ["+go", "are going", "went", "has gone"]
+      },
+      {
+          "id": 3,
+          "question": "She always ___ TV in the evening.",
+          "options": ["+watches", "is watching", "has watched", "watch"]
+      },
+      {
+          "id": 4,
+          "question": "Look! It ___ right now!",
+          "options": ["rains", "+is raining", "has rained", "will rain"]
+      },
+      {
+          "id": 5,
+          "question": "We ___ to the park every Sunday.",
+          "options": ["are going", "+go", "have gone", "were going"]
+      },
+      {
+          "id": 6,
+          "question": "I ___ my homework two hours ago.",
+          "options": ["+did", "have done", "was doing", "do"]
+      },
+      {
+          "id": 7,
+          "question": "She ___ never ___ sushi before.",
+          "options": ["+has, eaten", "had, ate", "did, eat", "is, eating"]
+      },
+      {
+          "id": 8,
+          "question": "They ___ in Paris for five years.",
+          "options": ["live", "+have lived", "lived", "living"]
+      },
+      {
+          "id": 9,
+          "question": "He ___ his car yesterday.",
+          "options": ["has sold", "is selling", "+sold", "sell"]
+      },
+      {
+          "id": 10,
+          "question": "We ___ this movie three times already.",
+          "options": ["+have seen", "saw", "are seeing", "see"]
+      },
+      {
+          "id": 11,
+          "question": "She speaks English ___.",
+          "options": ["good", "+well", "better", "best"]
+      },
+      {
+          "id": 12,
+          "question": "This is the ___ book I have ever read.",
+          "options": ["interesting", "more interesting", "+most interesting", "interested"]
+      },
+      {
+          "id": 13,
+          "question": "He runs ___ than his brother.",
+          "options": ["fast", "+faster", "the fastest", "most fast"]
+      },
+      {
+          "id": 14,
+          "question": "They are ___ students in the class.",
+          "options": ["good", "better", "+the best", "more good"]
+      },
+      {
+          "id": 15,
+          "question": "She drives ___.",
+          "options": ["careful", "more careful", "+carefully", "the most careful"]
+      },
+      {
+          "id": 16,
+          "question": "She bought a ___ dress.",
+          "options": ["+beautiful red silk", "red silk beautiful", "silk beautiful red", "beautiful silk red"]
+      },
+      {
+          "id": 17,
+          "question": "He gave me a ___ box.",
+          "options": ["+small wooden square", "square wooden small", "small square wooden", "wooden square small"]
+      },
+      {
+          "id": 18,
+          "question": "They live in a ___ house.",
+          "options": ["big brick old", "old big brick", "+big old brick", "brick big old"]
+      },
+      {
+          "id": 19,
+          "question": "She sings ___ than her sister.",
+          "options": ["good", "+better", "best", "more good"]
+      },
+      {
+          "id": 20,
+          "question": "This is the ___ city in the country.",
+          "options": ["big", "bigger", "+biggest", "most big"]
+      },
+      {
+          "id": 21,
+          "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+          "options": ["+The letter M", "The letter N", "The letter I", "The letter E"]
+      },
+      {
+          "id": 22,
+          "question": "I have two hands, but I can not scratch myself. What am I?",
+          "options": ["+A clock", "A chair", "A tree", "A bird"]
+      },
+      {
+          "id": 23,
+          "question": "What belongs to you, but other people use it more than you?",
+          "options": ["+Your name", "Your pen", "Your house", "Shadow"]
+      },
+      {
+          "id": 24,
+          "question": "She ___ her keys yesterday and couldn’t find them.",
+          "options": ["has lost", "+lost", "loses", "is losing"]
+      },
+      {
+          "id": 25,
+          "question": "My friend ___ to school by bus every day.",
+          "options": ["+goes", "is going", "went", "has gone"]
+      },
+      {
+          "id": 26,
+          "question": "They ___ tennis every Saturday.",
+          "options": ["plays", "+play", "are playing", "played"]
+      },
+      {
+          "id": 27,
+          "question": "My uncle forgot to take____________ on the camping trip.",
+          "options": ["A laptop", "A book", "+A tent", "A ball"]
+      },
+      {
+          "id": 28,
+          "question": "What’s this?",
+          "options": ["Tent", "Sleeping bag", "+Torch", "Plate"]
+      },
+      {
+          "id": 29,
+          "question": "What’s this?",
+          "options": ["Monsoon", "+Flood", "Storm", "Thunder"]
+      },
+      {
+          "id": 30,
+          "question": "Listen! The baby ___ now.",
+          "options": ["cries", "cried", "+is crying", "was crying"]
+      }
+  ]
+}

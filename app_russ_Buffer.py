@@ -4,7 +4,7 @@ import json
 import os
 import pyperclip
 
-path = "items/KimEkaterina 9 class 2.json"
+path = "items/Xamdamova 3 class 2.json"
 
 checkbox_coord = [(192,396),(192,519),(195,642),(195,766)]
 text_area = [(339,366),(314,486),(380,610),(241, 714)]
