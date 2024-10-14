@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What time do you ___ get on the train in the mornings?",
+        "options": ["+have to", "has to", "have"]
+      },
+      {
+        "id": 2,
+        "question": "Grace ___ work today because it’s a holiday.",
+        "options": ["not has to", "+doesn’t have to", "not have to"]
+      },
+      {
+        "id": 3,
+        "question": "My father’s brother is my ___",
+        "options": ["aunt", "+uncle", "grandfather"]
+      },
+      {
+        "id": 4,
+        "question": "Your sister’s son is your ___",
+        "options": ["niece", "grandson", "+nephew"]
+      },
+      {
+        "id": 5,
+        "question": "I will ___ take the train home later.",
+        "options": ["nearly", "quite", "+probably"]
+      },
+      {
+        "id": 6,
+        "question": "You have to check your essay very ___ to make sure there are no mistakes.",
+        "options": ["with care", "+carefully", "careful"]
+      },
+      {
+        "id": 7,
+        "question": "They won the game ___ with a score of 7–2.",
+        "options": ["+easily", "easy", "well"]
+      },
+      {
+        "id": 8,
+        "question": "I am ___ close to my younger sister but I don’t often see my older brother.",
+        "options": ["probably", "+really", "nearly"]
+      },
+      {
+        "id": 9,
+        "question": "My grandparents ___ TV, they’re asleep!",
+        "options": ["don’t watch", "not watching", "+aren’t watching"]
+      },
+      {
+        "id": 10,
+        "question": "We were walking in the forest when we ___ three rabbits under a tree.",
+        "options": ["+saw", "see", "were seeing"]
+      },
+      {
+        "id": 11,
+        "question": "This isn’t my parents’ car. ___ car is red.",
+        "options": ["Theirs", "+Their", "There"]
+      },
+      {
+        "id": 12,
+        "question": "I really like your scarf. Is it ___ Juana?",
+        "options": ["your", "+yours", "you"]
+      },
+      {
+        "id": 13,
+        "question": "I can give you your money back if you still have the ___",
+        "options": ["discount", "record", "+receipt"]
+      },
+      {
+        "id": 14,
+        "question": "Can you give me ___ paper please? I want to give you my phone number.",
+        "options": ["a bit of", "+a few", "a lot of"]
+      },
+      {
+        "id": 15,
+        "question": "I bought ___ new purse yesterday.",
+        "options": ["an", "+a", "any"]
+      },
+      {
+        "id": 16,
+        "question": "Have you got ___ cash you can lend me?",
+        "options": ["some", "a", "+any"]
+      },
+      {
+        "id": 17,
+        "question": "Joe Lee is well-known ___ his blog about food.",
+        "options": ["of", "+for", "with"]
+      },
+      {
+        "id": 18,
+        "question": "In China a lot of meat dishes come with ___ and vegetables.",
+        "options": ["+noodles", "fish", "cheese"]
+      },
+      {
+        "id": 19,
+        "question": "You need eggs to make ___ and you can add cheese or mushrooms.",
+        "options": ["chilli", "+an omelette", "seafood"]
+      },
+      {
+        "id": 20,
+        "question": "Why don’t you have ___ with your burger? It’s healthier than chips.",
+        "options": ["salad", "fried onions", "+curry"]
+      },
+      {
+        "id": 21,
+        "question": "My cousin is ___ my brother. He’s two and my brother is ten.",
+        "options": ["younger", "as young as", "+younger than"]
+      },
+      {
+        "id": 22,
+        "question": "Do you think chicken legs are ___ chicken curry?",
+        "options": ["tasty", "+as tasty as", "tastier"]
+      },
+      {
+        "id": 23,
+        "question": "The red T-shirt is ___ the orange one.",
+        "options": ["expensiver", "expensive than", "+more expensive than"]
+      },
+      {
+        "id": 24,
+        "question": "This computer has a large ___, so it can hold a lot of information.",
+        "options": ["download", "website", "+memory"]
+      },
+      {
+        "id": 25,
+        "question": "I sometimes ___ the internet to find cheap clothes and shoes.",
+        "options": ["+surf", "chat", "go"]
+      },
+      {
+        "id": 26,
+        "question": "I think Edinburgh is one of ___ cities in the world!",
+        "options": ["most beautiful", "the more beautiful", "+the most beautiful"]
+      },
+      {
+        "id": 27,
+        "question": "This supermarket is ___ shop in my town.",
+        "options": ["as busy as", "+the busiest", "busier"]
+      },
+      {
+        "id": 28,
+        "question": "You feel very hot. You’ve got a ___. You should go to the doctor.",
+        "options": ["ache", "pain", "+temperature"]
+      },
+      {
+        "id": 29,
+        "question": "I don’t know what’s wrong but my toe really ___.",
+        "options": ["hurts", "sick", "+pains"]
+      },
+      {
+        "id": 30,
+        "question": "What do you think I ___ wear to the party tonight?",
+        "options": ["do", "going to", "+should"]
+      }
+    ]
+  }
+  

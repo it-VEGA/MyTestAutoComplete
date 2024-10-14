@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of Uzbekistan?",
+        "options": ["+Tashkent", "London", "Bogota", "Madrid"]
+      },
+      {
+        "id": 2,
+        "question": "What colour is the flag of the UK?",
+        "options": ["Yellow and green", "White and red", "White, red and blue", "+Red and yellow"]
+      },
+      {
+        "id": 3,
+        "question": "My brother is ___ than my sister.",
+        "options": ["Smart", "+Smarter", "The smartest", "More smart"]
+      },
+      {
+        "id": 4,
+        "question": "I like drawing and painting. I am ___",
+        "options": ["+Artistic", "Funny", "Smart", "Friendly"]
+      },
+      {
+        "id": 5,
+        "question": "My brother likes PE. He plays football. He is ___",
+        "options": ["Friendly", "Smart", "Funny", "+Sporty"]
+      },
+      {
+        "id": 6,
+        "question": "Our school rules. You should ___",
+        "options": ["Litter on the ground", "Laugh at people", "+Do your homework", "Shout in class"]
+      },
+      {
+        "id": 7,
+        "question": "Our school rules. You shouldn't ___",
+        "options": ["Be polite", "Help people", "+Be rude", "Do homework"]
+      },
+      {
+        "id": 8,
+        "question": "I have got ___ orange.",
+        "options": ["A", "+An", "Some", "The"]
+      },
+      {
+        "id": 9,
+        "question": "There is ___ butter on the table.",
+        "options": ["A", "An", "+Some", "The"]
+      },
+      {
+        "id": 10,
+        "question": "Give me ___ pen, please.",
+        "options": ["A", "+An", "Some", "The"]
+      },
+      {
+        "id": 11,
+        "question": "Choose a countable noun.",
+        "options": ["Oil", "Butter", "+Chair", "Water"]
+      },
+      {
+        "id": 12,
+        "question": "Choose an uncountable noun.",
+        "options": ["Money", "Pen", "Girl", "Boy"]
+      },
+      {
+        "id": 13,
+        "question": "He has got a cat. The cat is ___",
+        "options": ["+His", "Hers", "Mine", "Yours"]
+      },
+      {
+        "id": 14,
+        "question": "She has got a doll. The doll is ___",
+        "options": ["Mine", "+Hers", "His", "Ours"]
+      },
+      {
+        "id": 15,
+        "question": "I have got a room. The room is ___",
+        "options": ["+Mine", "Yours", "Ours", "His"]
+      },
+      {
+        "id": 16,
+        "question": "Look at ___ Tom.",
+        "options": ["The", "A", "An", "+-"]
+      },
+      {
+        "id": 17,
+        "question": "I am from ___ Uzbekistan.",
+        "options": ["The", "A", "An", "+-"]
+      },
+      {
+        "id": 18,
+        "question": "He is from ___ UK.",
+        "options": ["The", "A", "+An", "-"]
+      },
+      {
+        "id": 19,
+        "question": "There are ___ blueberries.",
+        "options": ["Many", "Much", "+A lot of", "A"]
+      },
+      {
+        "id": 20,
+        "question": "There aren't ___ potatoes.",
+        "options": ["Many", "+Much", "A lot of", "A"]
+      },
+      {
+        "id": 21,
+        "question": "There aren't ___ money.",
+        "options": ["a lot of", "Many", "+Much", "A"]
+      },
+      {
+        "id": 22,
+        "question": "Have you got ___ friends?",
+        "options": ["a lot of", "+Many", "Much", "A"]
+      },
+      {
+        "id": 23,
+        "question": "Have you got ___ milk?",
+        "options": ["a lot of", "Many", "+Much", "A"]
+      },
+      {
+        "id": 24,
+        "question": "He often ___ to the cinema.",
+        "options": ["Go", "+Goes", "Going", "Went"]
+      },
+      {
+        "id": 25,
+        "question": "She ___ play the piano.",
+        "options": ["don't", "+doesn't", "Is not", "Are not"]
+      },
+      {
+        "id": 26,
+        "question": "There are ___ seasons in a year.",
+        "options": ["Four", "Five", "Six", "+Seven"]
+      },
+      {
+        "id": 27,
+        "question": "There are ___ months in a year.",
+        "options": ["Eleven", "+Twelve", "Four", "Five"]
+      },
+      {
+        "id": 28,
+        "question": "Do you like English?",
+        "options": ["Yes, I do.", "Yes, I am.", "Yes, I did.", "+Yes, I will."]
+      },
+      {
+        "id": 29,
+        "question": "There are ___ days in a week.",
+        "options": ["Four", "Five", "Six", "+Seven"]
+      },
+      {
+        "id": 30,
+        "question": "___ is the first month.",
+        "options": ["February", "December", "May", "+January"]
+      }
+    ]
+  }
+  

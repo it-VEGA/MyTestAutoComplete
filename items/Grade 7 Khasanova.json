@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "You play ___ in teams of five.",
+      "options": ["swimming", "+basketball", "gymnastics"]
+    },
+    {
+      "id": 2,
+      "question": "You can’t go ___ without a bike.",
+      "options": ["running", "sailing", "+cycling"]
+    },
+    {
+      "id": 3,
+      "question": "They ___ go surfing because they don’t like swimming.",
+      "options": ["always", "+never", "often"]
+    },
+    {
+      "id": 4,
+      "question": "I clean my teeth after breakfast and then I go to work.",
+      "options": ["+usually", "never", "sometimes"]
+    },
+    {
+      "id": 5,
+      "question": "___ is something sweet you can eat with pancakes.",
+      "options": ["+Honey", "Avocado", "Cereal"]
+    },
+    {
+      "id": 6,
+      "question": "In my house, we often ___ fruit for breakfast.",
+      "options": ["are having", "having", "+have"]
+    },
+    {
+      "id": 7,
+      "question": "We ___ early at the weekend.",
+      "options": ["not get up", "doesn’t get up", "+don’t get up"]
+    },
+    {
+      "id": 8,
+      "question": "When a band ___ they visit different cities every two or three days.",
+      "options": ["gives a concert", "+goes on tour", "becomes famous"]
+    },
+    {
+      "id": 9,
+      "question": "James plays some great jazz tunes on the ___.",
+      "options": ["+saxophone", "concert", "soul"]
+    },
+    {
+      "id": 10,
+      "question": "Amy loves ___ to the theatre or the cinema.",
+      "options": ["+go", "going", "is going"]
+    },
+    {
+      "id": 11,
+      "question": "My father ___ driving to work in the car.",
+      "options": ["quite like", "+quite likes", "quite liking"]
+    },
+    {
+      "id": 12,
+      "question": "My birthday was ___. Dad took me skydiving and I loved it!",
+      "options": ["horrible", "fine", "+awesome"]
+    },
+    {
+      "id": 13,
+      "question": "We’re so ___ you could come tonight. There are lots of people we want you to meet.",
+      "options": ["upset", "angry", "+glad"]
+    },
+    {
+      "id": 14,
+      "question": "They ___ hungry after the game, but they were very thirsty.",
+      "options": ["was", "+weren’t", "wasn’t"]
+    },
+    {
+      "id": 15,
+      "question": "We went to see the new show last night, but it was ___. Don’t go!",
+      "options": ["+terrible", "brilliant", "perfect"]
+    },
+    {
+      "id": 16,
+      "question": "Rick Riordan ___ his first book in 1997.",
+      "options": ["crossed", "received", "+published"]
+    },
+    {
+      "id": 17,
+      "question": "What do you think of the new ___ in front of the National Museum?",
+      "options": ["palace", "castle", "+statue"]
+    },
+    {
+      "id": 18,
+      "question": "They ___ London in the summer of 2017.",
+      "options": ["+visited", "travelled", "looked"]
+    },
+    {
+      "id": 19,
+      "question": "They ___ the tree, they just played in the garden.",
+      "options": ["not climb", "not climbed", "+didn’t climb"]
+    },
+    {
+      "id": 20,
+      "question": "When you have a job you ___ money.",
+      "options": ["+earn", "get", "record"]
+    },
+    {
+      "id": 21,
+      "question": "A group of people who work in a business are known as the ___.",
+      "options": ["+staff", "boss", "customers"]
+    },
+    {
+      "id": 22,
+      "question": "My dad makes cars. He’s a ___.",
+      "options": ["manager", "+factory worker", "mechanic"]
+    },
+    {
+      "id": 23,
+      "question": "My aunt works as a ___ in the hospital.",
+      "options": ["+nurse", "pilot", "sports coach"]
+    },
+    {
+      "id": 24,
+      "question": "We cooked fish, but we ___ meat.",
+      "options": ["not cook", "cook didn’t", "+didn’t cook"]
+    },
+    {
+      "id": 25,
+      "question": "How ___ to work last week?",
+      "options": ["do you travel", "+did you travel", "you travelled"]
+    },
+    {
+      "id": 26,
+      "question": "The class didn’t start at 8.30 last week, it ___ at 9 o’clock.",
+      "options": ["start", "starting", "+started"]
+    },
+    {
+      "id": 27,
+      "question": "Go ___ when you go to Barcelona. There are lots of interesting places to see.",
+      "options": ["lie on the beach", "camping", "+sightseeing"]
+    },
+    {
+      "id": 28,
+      "question": "The tour stops in five different countries, so don’t forget your ___.",
+      "options": ["+passport", "guidebook", "tour guide"]
+    },
+    {
+      "id": 29,
+      "question": "Did you ___ to Milan last weekend?",
+      "options": ["went", "+go", "going"]
+    },
+    {
+      "id": 30,
+      "question": "We ___ our bikes to the beach yesterday.",
+      "options": ["+rode", "rided", "ride"]
+    }
+  ]
+}

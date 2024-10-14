@@ -4,13 +4,12 @@ import json
 import os
 import pyperclip
 
-path = "items/cherniweva_Galina.json"
+path = "items/KimEkaterina 9 class 2.json"
 
 checkbox_coord = [(192,396),(192,519),(195,642),(195,766)]
 text_area = [(339,366),(314,486),(380,610),(241, 714)]
 with open(path, 'r', encoding='utf-8') as file:
     data = json.load(file)
-    print(data)
 
 def paste_text(text):
     pyperclip.copy(text)  # Копируем текст в буфер обмена
@@ -45,5 +44,3 @@ pyautogui.click()
 pyautogui.write(f'{os.path.basename(path)[:-5]}.mtf')
 pyautogui.moveTo(1757,1002)
 pyautogui.click()
-
-
