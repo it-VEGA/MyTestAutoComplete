@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I _______ (see) that movie last week.",
+      "options": [
+        "+saw",
+        "have seen",
+        "see"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "She _______ (not/eat) breakfast yet today.",
+      "options": [
+        "didn't eat",
+        "+hasn't eaten",
+        "has eaten"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "He _______ (visit) his grandmother last summer.",
+      "options": [
+        "+visited",
+        "has visited",
+        "visits"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "They _______ (live) in this city for five years.",
+      "options": [
+        "lived",
+        "+have lived",
+        "are living"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "We _______ (learn) a lot this year.",
+      "options": [
+        "learned",
+        "+have learned",
+        "learn"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "The dog _______ (not/bark) since this morning.",
+      "options": [
+        "didn't bark",
+        "+hasn't barked",
+        "barks"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "She _______ (just/buy) a new car.",
+      "options": [
+        "just bought",
+        "+has just bought",
+        "just buys"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "They _______ (already/finish) their homework.",
+      "options": [
+        "already finished",
+        "+have already finished",
+        "already finish"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "I _______ (never/be) to Paris.",
+      "options": [
+        "never was",
+        "+have never been",
+        "was never been"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "He _______ (lose) his keys yesterday.",
+      "options": [
+        "+lost",
+        "has lost",
+        "loses"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What are you cooking? It …… very nice!",
+      "options": [
+        "is smelling",
+        "+smells",
+        "smelt"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "The stars …… at night.",
+      "options": [
+        "are shining",
+        "shines",
+        "+shine"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "A: Do you play basketball at weekends?\nB: Yes, I …… do.",
+      "options": [
+        "never",
+        "+often",
+        "seldom"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "…… you go to the party yesterday?",
+      "options": [
+        "+Did",
+        "Do",
+        "Does"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "The next show …… at 8:30 pm.",
+      "options": [
+        "starting",
+        "+starts",
+        "start"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "We left the concert hall three hours ……",
+      "options": [
+        "before",
+        "last",
+        "+ago"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Have you ever …… to Egypt?",
+      "options": [
+        "be",
+        "+been",
+        "gone"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "George …… a bath at the moment.",
+      "options": [
+        "+is having",
+        "has",
+        "have"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "I …… of buying a new car.",
+      "options": [
+        "think",
+        "+am thinking",
+        "thinks"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "The sun …… in the east.",
+      "options": [
+        "is rising",
+        "rise",
+        "+rises"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Tina is happy because she …… her exams.",
+      "options": [
+        "Passes",
+        "+Has passed",
+        "Have passed"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "This apple pie …… delicious!",
+      "options": [
+        "taste",
+        "+tastes",
+        "is tasting"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "A: Do you listen to the radio?\nB: Yes, I …… do.",
+      "options": [
+        "never",
+        "seldom",
+        "+sometimes"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Tommy usually …… his homework after lunch.",
+      "options": [
+        "do",
+        "+does",
+        "doing"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "How long …… you lived here?",
+      "options": [
+        "are",
+        "were",
+        "+have"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Choose the right word for the given definition: in place of",
+      "options": [
+        "solve",
+        "suppose",
+        "+instead"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Choose the right word for the given definition: rare",
+      "options": [
+        "quite",
+        "not full",
+        "+not seen often"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Choose the right word for the given definition: visible",
+      "options": [
+        "from nature",
+        "+easy to see",
+        "normal"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Choose the right word for the given definition: used when something must be done",
+      "options": [
+        "propose",
+        "hang",
+        "+require"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Choose the right word for the given definition: to decide that something is good or bad",
+      "options": [
+        "compare",
+        "+judge",
+        "meal"
+      ]
+    }
+  ]
+}

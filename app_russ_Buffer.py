@@ -4,7 +4,7 @@ import json
 import os
 import pyperclip
 
-path = "items/Xamdamova 3 class 2.json"
+path = "items/Gulnara_Juraevna 6 class .json"
 
 checkbox_coord = [(192,396),(192,519),(195,642),(195,766)]
 text_area = [(339,366),(314,486),(380,610),(241, 714)]
@@ -18,7 +18,7 @@ def paste_text(text):
 def add_question():
     for i in range(0,len(data['questions'])):
         add_coordidates = [(100,62),(967,674), (249,112)]
-        time.sleep(3)
+        time.sleep(2)
         for coords in add_coordidates:
             pyautogui.moveTo(coords[0], coords[1])
             pyautogui.click()
@@ -35,7 +35,7 @@ def add_question():
 
 
 add_question()
-time.sleep(3)
+time.sleep(1)
 pyautogui.moveTo(12,33)
 pyautogui.click()
 pyautogui.moveTo(92,135)

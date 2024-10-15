@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Translate into English 'Засуха'",
+        "options": ["Moon", "Sun", "Flood", "+Drought"]
+      },
+      {
+        "id": 2,
+        "question": "How many months are there in a year?",
+        "options": ["Nine", "Ten", "+Twelve", "Four"]
+      },
+      {
+        "id": 3,
+        "question": "Jason is 12 years old and he … in New York",
+        "options": ["+Lives", "Lived", "From", "Works"]
+      },
+      {
+        "id": 4,
+        "question": "Present simple is used … situations",
+        "options": ["for temporary", "+for permanent", "for fixed arrangements", "for past events"]
+      },
+      {
+        "id": 5,
+        "question": "Translate into English 'пустыня'",
+        "options": ["+desert", "river", "mountain", "moon"]
+      },
+      {
+        "id": 6,
+        "question": "In December the weather is …",
+        "options": ["warm", "+cold", "cool", "hot"]
+      },
+      {
+        "id": 7,
+        "question": "The stars … at night.",
+        "options": ["Shining", "Rise", "+Shine", "Gone"]
+      },
+      {
+        "id": 8,
+        "question": "Tommy usually … his homework after lunch.",
+        "options": ["Doing", "Do", "Play", "+Does"]
+      },
+      {
+        "id": 9,
+        "question": "Translate into English 'фонарь'",
+        "options": ["+Flashlight", "Map", "Plate", "Backpack"]
+      },
+      {
+        "id": 10,
+        "question": "What can help you to read a book in a sleeping bag?",
+        "options": ["Tent", "+Flashlights", "Water bootle", "Map"]
+      },
+      {
+        "id": 11,
+        "question": "The Sonoran Desert is in ...",
+        "options": ["Uzbekistan", "Africa", "+Brazil", "Australia"]
+      },
+      {
+        "id": 12,
+        "question": "Sara … a book at the moment",
+        "options": ["is having", "are having", "reads", "+is reading"]
+      },
+      {
+        "id": 13,
+        "question": "My mother is watching TV …",
+        "options": ["+now", "yesterday", "tomorrow", "next week"]
+      },
+      {
+        "id": 14,
+        "question": "Children make a snowman and play snowball.",
+        "options": ["Мальчикам нравятся зимние виды спорта.", "Детям нравится лепить снеговика и играть в снежки.", "+Дети лепят снеговика и играют в снежки.", "Детям нравится зима."]
+      },
+      {
+        "id": 15,
+        "question": "Shadows aren’t just black. They’re .........in the center and lighter on the outside.",
+        "options": ["lighter", "+darker", "small", "bright"]
+      },
+      {
+        "id": 16,
+        "question": "This film is ___ than that one.",
+        "options": ["long", "+longer", "the longest", "more long"]
+      },
+      {
+        "id": 17,
+        "question": "They ___ the park next week.",
+        "options": ["+won’t go", "don’t go", "didn’t go", "aren’t go"]
+      },
+      {
+        "id": 18,
+        "question": "There is not any rain in ________",
+        "options": ["Monsoon season", "+Drought", "Fall", "Flood"]
+      },
+      {
+        "id": 19,
+        "question": "Can you ___ me a pen?",
+        "options": ["take", "gives", "gave", "+give"]
+      },
+      {
+        "id": 20,
+        "question": "She ___ her homework yesterday.",
+        "options": ["+did", "had done", "does", "doing"]
+      },
+      {
+        "id": 21,
+        "question": "Past simple is used …",
+        "options": ["+for an actions which happened in the past and cannot be repeated", "to talk about experinces", "for repeated actions", "to talk about dreams"]
+      },
+      {
+        "id": 22,
+        "question": "Be going to is used to …",
+        "options": ["express hopes", "to talk about films", "+to talk about things we have already decided to do", "to sing a song"]
+      },
+      {
+        "id": 23,
+        "question": "I …… buy a new bike ( I’ve decided it.)",
+        "options": ["will", "_", "did", "+am going to"]
+      },
+      {
+        "id": 24,
+        "question": "There are … days in a week.",
+        "options": ["Four", "Five", "Six", "+Seven"]
+      },
+      {
+        "id": 25,
+        "question": "Where ______ you ______ right now?",
+        "options": ["are / go", "+are / going", "is / going", "do/going"]
+      },
+      {
+        "id": 26,
+        "question": "Jane ______ swimming",
+        "options": ["is not liking", "+does not like", "is not like", "does not liking"]
+      },
+      {
+        "id": 27,
+        "question": "Translate into English 'нуждаться'",
+        "options": ["plate", "camping", "+need", "hope"]
+      },
+      {
+        "id": 28,
+        "question": "Translate into English 'сторона'",
+        "options": ["+side", "shadow", "ball", "house"]
+      },
+      {
+        "id": 29,
+        "question": "His teacher thinks he …… a great pianist one day.",
+        "options": ["+is going to be", "will be", "start", "want"]
+      },
+      {
+        "id": 30,
+        "question": "I think it ….. be sunny tomorrow",
+        "options": ["did", "does", "is", "+will"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "They are playing with ___ toys. (They)",
+      "options": ["our", "+their", "her", "his"]
+    },
+    {
+      "id": 2,
+      "question": "___ favorite color is blue. (I)",
+      "options": ["Mine", "+My", "His", "Our"]
+    },
+    {
+      "id": 3,
+      "question": "___ car is new. (We)",
+      "options": ["+Our", "His", "Their", "My"]
+    },
+    {
+      "id": 4,
+      "question": "John and Mary are showing ___ project. (They)",
+      "options": ["her", "his", "+their", "your"]
+    },
+    {
+      "id": 5,
+      "question": "The dog is playing with ___ ball. (It)",
+      "options": ["+its", "his", "her", "their"]
+    },
+    {
+      "id": 6,
+      "question": "Where ___ your brother work?",
+      "options": ["do", "+does", "is", "are"]
+    },
+    {
+      "id": 7,
+      "question": "They ___ not have a car.",
+      "options": ["does", "+do", "is", "are"]
+    },
+    {
+      "id": 8,
+      "question": "Why ___ we need to study English?",
+      "options": ["+do", "does", "is", "are"]
+    },
+    {
+      "id": 9,
+      "question": "What time ___ the movie start?",
+      "options": ["do", "+does", "is", "are"]
+    },
+    {
+      "id": 10,
+      "question": "She ___ speak Spanish very well.",
+      "options": ["can't", "+can", "is", "are"]
+    },
+    {
+      "id": 11,
+      "question": "My dog ___ jump, but it ___ fly.",
+      "options": ["+can / can't", "can / can", "can't / can", "can't / can't"]
+    },
+    {
+      "id": 12,
+      "question": "___ I use your pen, please?",
+      "options": ["+Can", "Can't", "Is", "Are"]
+    },
+    {
+      "id": 13,
+      "question": "You ___ my friend.",
+      "options": ["am", "+are", "is", "be"]
+    },
+    {
+      "id": 14,
+      "question": "They ___ from Canada.",
+      "options": ["+are", "am", "is", "be"]
+    },
+    {
+      "id": 15,
+      "question": "It ___ a sunny day.",
+      "options": ["are", "am", "+is", "be"]
+    },
+    {
+      "id": 16,
+      "question": "I ___ happy to see you!",
+      "options": ["is", "are", "+am", "be"]
+    },
+    {
+      "id": 17,
+      "question": "___ is my favorite toy.",
+      "options": ["+This", "-", "These", "Those"]
+    },
+    {
+      "id": 18,
+      "question": "___ are my shoes.",
+      "options": ["-", "+These", "This", "That"]
+    },
+    {
+      "id": 19,
+      "question": "___ is a beautiful painting.",
+      "options": ["Thes", "+That", "This", "Those"]
+    },
+    {
+      "id": 20,
+      "question": "___ books are very interesting.",
+      "options": ["This", "That", "+These", "-"]
+    },
+    {
+      "id": 21,
+      "question": "___ is my brother.",
+      "options": ["+This", "Those", "These", "-"]
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct sentence: ___ are my friends.",
+      "options": ["+These", "This", "That", "-"]
+    },
+    {
+      "id": 23,
+      "question": "Who is ___ girl over there?",
+      "options": ["These", "This", "+That", "Those"]
+    },
+    {
+      "id": 24,
+      "question": "___ are my new toys.",
+      "options": ["This", "-", "That", "+These"]
+    },
+    {
+      "id": 25,
+      "question": "___ car is very fast.",
+      "options": ["+This", "-", "These", "Those"]
+    },
+    {
+      "id": 26,
+      "question": "There are …days in a week.",
+      "options": ["+Seven", "Five", "Three", "six"]
+    },
+    {
+      "id": 27,
+      "question": "The frog is...",
+      "options": ["Purple", "Pink", "+Green", "yellow"]
+    },
+    {
+      "id": 28,
+      "question": "Bananas are…",
+      "options": ["+Yellow", "Brown", "Black", "green"]
+    },
+    {
+      "id": 29,
+      "question": "Autumn months are..",
+      "options": ["October,August,December", "+September, October, November", "Spring,Summer, Winter", "June, July,September"]
+    },
+    {
+      "id": 30,
+      "question": "Fish can…",
+      "options": ["+Swim", "Dance", "Fly", "climb"]
+    }
+  ]
+}

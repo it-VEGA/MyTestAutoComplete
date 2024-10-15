@@ -1,0 +1,303 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I ____ tennis with my friend.",
+      "options": [
+        "+play",
+        "plays",
+        "Playes",
+        "Playing"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "My cat ___ every day.",
+      "options": [
+        "ran",
+        "runed",
+        "+runs",
+        "running"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "They ____ dinner every day.",
+      "options": [
+        "has",
+        "+have",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "It never _____ in Africa.",
+      "options": [
+        "Snowing",
+        "+snows",
+        "Snowed",
+        "swon"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "I ___ playing football now.",
+      "options": [
+        "are",
+        "is",
+        "+am",
+        "will"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "My mother ___ cooking a cake at the moment.",
+      "options": [
+        "are",
+        "+is",
+        "am",
+        "was"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "We ____ reading books now.",
+      "options": [
+        "am",
+        "+are",
+        "is",
+        "will"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Aziza ____ jumping now.",
+      "options": [
+        "+is",
+        "are",
+        "am",
+        "was"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "He ___ a letter yesterday.",
+      "options": [
+        "write",
+        "written",
+        "+wrote",
+        "was"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "My uncle ___ a horse last week.",
+      "options": [
+        "ride",
+        "+rode",
+        "ridden",
+        "rid"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "___ read a book yesterday?",
+      "options": [
+        "+Did",
+        "Do",
+        "Does",
+        "was"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "We ____ read a book last month.",
+      "options": [
+        "+didn’t",
+        "is",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "We ___ go to Tashkent next week.",
+      "options": [
+        "+are",
+        "is",
+        "shall",
+        "was"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Mike __ go to London next week.",
+      "options": [
+        "is not",
+        "am not",
+        "+will not",
+        "was not"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "My mother ____ swim tomorrow.",
+      "options": [
+        "shall",
+        "+will",
+        "is",
+        "was"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "___ we dance tomorrow?",
+      "options": [
+        "Does",
+        "+Shall",
+        "Are",
+        "Is"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "yesterday, last week, 2 years ago are time markers of _____",
+      "options": [
+        "+past simple",
+        "present simple",
+        "future simple",
+        "present continuous"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "tomorrow, next year, after 2 days are time markers _____",
+      "options": [
+        "past simple",
+        "present simple",
+        "+future simple",
+        "present continuous"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "муравей  - ___________",
+      "options": [
+        "+ant",
+        "caterpillar",
+        "grasshopper",
+        "bowl"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "We ___ a bike.",
+      "options": [
+        "had got",
+        "+have got",
+        "has got",
+        "am not"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Sally ___ a duck.",
+      "options": [
+        "have got",
+        "+has got",
+        "had got",
+        "am got"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Иди в прямо-____________",
+      "options": [
+        "turn right",
+        "+go straight ahead",
+        "turn left",
+        "is left"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "____ do you study?",
+      "options": [
+        "Where",
+        "When",
+        "+What",
+        "Why"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "____ is your friend?",
+      "options": [
+        "Where",
+        "+Who",
+        "What",
+        "When"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "____ do you get up?",
+      "options": [
+        "Where",
+        "Where",
+        "+When",
+        "Why"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "How ____ is the chair?",
+      "options": [
+        "+high",
+        "tall",
+        "hi",
+        "hello"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What can you see in your town?",
+      "options": [
+        "shopping mall, square, traffic light",
+        "subway station, hotel, crosswalk",
+        "restaurant, museum, bank, bus station",
+        "+all answers are correct"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Translate «площадь»",
+      "options": [
+        "+square",
+        "restaurant",
+        "subway",
+        "bus station"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Translate «станция метро».",
+      "options": [
+        "+subway station",
+        "bus station",
+        "fly",
+        "hotel"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Translate «гостиница».",
+      "options": [
+        "+hotel",
+        "flat",
+        "school"
+      ]
+    }
+  ]
+}

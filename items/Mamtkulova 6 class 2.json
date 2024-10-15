@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Translate into English 'Муссон'",
+      "options": ["+Monsoon", "Sun", "Flood", "Drought"]
+    },
+    {
+      "id": 2,
+      "question": "How many days are there in a year?",
+      "options": ["370", "456", "+365", "346"]
+    },
+    {
+      "id": 3,
+      "question": "He … to school every day by bus",
+      "options": ["go", "+goes", "going", "went"]
+    },
+    {
+      "id": 4,
+      "question": "Present simple is used …",
+      "options": ["for actions happening at the time of speaking", "for temporary situations", "for fixed arrangements", "+for timetables or programmes"]
+    },
+    {
+      "id": 5,
+      "question": "Translate into English 'летний лагерь'",
+      "options": ["+summer camp", "summer rain", "weekend", "swimming"]
+    },
+    {
+      "id": 6,
+      "question": "In September the weather is …",
+      "options": ["frosty", "cold", "snowy", "+warm"]
+    },
+    {
+      "id": 7,
+      "question": "The Sun … in the east.",
+      "options": ["is rising", "+rises", "rise", "shine"]
+    },
+    {
+      "id": 8,
+      "question": "… you ever been to Moscow?",
+      "options": ["will", "has", "+have", "are"]
+    },
+    {
+      "id": 9,
+      "question": "Translate into English 'одеяло'",
+      "options": ["+blanket", "pillow", "water bottle", "flashlights"]
+    },
+    {
+      "id": 10,
+      "question": "Where do people sleep in the forest on camping?",
+      "options": ["in their flashlights", "in their backpacks", "+in their tents", "in their plates"]
+    },
+    {
+      "id": 11,
+      "question": "My brother forgot to take ............ on the camping trip.",
+      "options": ["a dress", "+a sleeping bag", "a ball", "a toy"]
+    },
+    {
+      "id": 12,
+      "question": "George … a bath at the moment.",
+      "options": ["have", "has", "had", "+is having"]
+    },
+    {
+      "id": 13,
+      "question": "My dad is riding a car right …",
+      "options": ["+now", "always", "yesterday", "tomorrow"]
+    },
+    {
+      "id": 14,
+      "question": "The first snow falls at the beginning of December.",
+      "options": ["В декабре становится холодно.", "+Первый снег выпадает в начале декабря", "В декабре часто бывают снегопады.", "Декабрь самый холодный зимний месяц."]
+    },
+    {
+      "id": 15,
+      "question": "In winter, the Sun is ... in the sky.",
+      "options": ["higher", "+lower", "shade", "artists"]
+    },
+    {
+      "id": 16,
+      "question": "Kate is ___ than Jack",
+      "options": ["old", "+older", "the oldest", "the most old"]
+    },
+    {
+      "id": 17,
+      "question": "We___ to school tomorrow.",
+      "options": ["going", "go", "+will go", "goes"]
+    },
+    {
+      "id": 18,
+      "question": "A lot of plants and flowers start to grow in ______",
+      "options": ["Winter", "+Spring", "Summer", "Fall"]
+    },
+    {
+      "id": 19,
+      "question": "Would you ___ a cup of coffee?",
+      "options": ["liked", "+like", "likes", "liking"]
+    },
+    {
+      "id": 20,
+      "question": "They ___ the book last week.",
+      "options": ["hadn’t read", "+didn’t read", "haven’t read", "don’t read"]
+    },
+    {
+      "id": 21,
+      "question": "Past simple is used …",
+      "options": ["+to express a past state or habit", "to express our ideas", "to talk about future", "for repeated actions"]
+    },
+    {
+      "id": 22,
+      "question": "Be going to is used to …",
+      "options": ["to talk about things happened in past", "to talk about things we are not sure about", "+to talk about things we are sure about", "to sorry about something"]
+    },
+    {
+      "id": 23,
+      "question": "Watch out! we …….. have an accident (we can see a car)",
+      "options": ["_", "will", "are", "+are going to"]
+    },
+    {
+      "id": 24,
+      "question": "There are … seasons in a year",
+      "options": ["five", "+four", "three", "two"]
+    },
+    {
+      "id": 25,
+      "question": "My sisters ______ in the pool today.",
+      "options": ["+is not swimming", "are not swimming", "are not swim", "is not swim"]
+    },
+    {
+      "id": 26,
+      "question": "Kate ______ read books.",
+      "options": ["is not liking", "+does not like", "is not like", "does not liking"]
+    },
+    {
+      "id": 27,
+      "question": "Translate into English 'прибывать'",
+      "options": ["thing", "need", "+arrive", "prepare"]
+    },
+    {
+      "id": 28,
+      "question": "Translate into English 'тень'",
+      "options": ["+shadow", "light", "right", "left"]
+    },
+    {
+      "id": 29,
+      "question": "This skirt is nice. I …. It.",
+      "options": ["won’t wear", "+will take", "bought", "play"]
+    },
+    {
+      "id": 30,
+      "question": "… we go for a picnic tomorrow?",
+      "options": ["am", "is", "did", "+shall"]
+    }
+  ]
+}

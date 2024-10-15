@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I think Lucas is really _____________. For instance, when he wants to borrow something, he always says please.",
+      "options": ["+Polite", "Careless", "Friendly", "Confident"]
+    },
+    {
+      "id": 2,
+      "question": "Lucas knows what he’s good at, so he’s quite a ____________ boy.",
+      "options": ["Polite", "+Confident", "Careless", "Cheerful"]
+    },
+    {
+      "id": 3,
+      "question": "What does ‘patient’ mean in the text?",
+      "options": ["be involved in an activity, with other people", "+able to stay calm and not get angry, especially when something takes a long time", "someone with no brothers or sisters", "become better"]
+    },
+    {
+      "id": 4,
+      "question": "We use the present simple to talk about:",
+      "options": ["+facts.", "something that is happening right now or around now.", "temporary situations.", "future plans."]
+    },
+    {
+      "id": 5,
+      "question": "A: I didn’t recognise any of the actors in that film. B: They were all ______________, I think.",
+      "options": ["Unfriendly", "Unlucky", "+Unknown", "Impolite"]
+    },
+    {
+      "id": 6,
+      "question": "My sister and I (enjoy) shopping last Saturday.",
+      "options": ["Enjoied", "+Enjoyed", "Enjoy", "Enjoys"]
+    },
+    {
+      "id": 7,
+      "question": "In the 1960s, rock bands like The Rolling Stones became symbols of the growing youth culture. Young women wore very short ‘mini skirts’ – the older generation was shocked! The mid-1960s to the mid-70s was the hippie era. Young hippies were interested in peace and love, and they listened to The Beatles, Dusty Springfield and Joni Mitchell. Men and women alike had long hair and wore flowery clothing and sandals. In the 1960s, _________________",
+      "options": ["+fashions shocked some people.", "hippies wore mini skirts.", "wore colourful clothing.", "get their fashion ideas from YouTubers"]
+    },
+    {
+      "id": 8,
+      "question": "There’s ___ amazing graffiti under the bridge.",
+      "options": ["+Some", "Any", "none", "a few"]
+    },
+    {
+      "id": 9,
+      "question": "I’m taking out the rubbish. Have you got ____?",
+      "options": ["+Some", "Any", "Every", "No"]
+    },
+    {
+      "id": 10,
+      "question": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+      "options": ["Shadow", "+Fire", "Cold", "Fense"]
+    },
+    {
+      "id": 11,
+      "question": "A doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?",
+      "options": ["Memories", "The woman was a photographer. She shot a picture of them", "There are other people.", "+An apple a day keeps the doctor away"]
+    },
+    {
+      "id": 12,
+      "question": "My family and I (watch) TV last night.",
+      "options": ["Watch", "Was watching", "+Watched", "Watchied"]
+    },
+    {
+      "id": 13,
+      "question": "My parents (not buy) the clothes for my last birthday.",
+      "options": ["Not bought", "Didn’t bought", "Don’t buy", "+Didn’t buy"]
+    },
+    {
+      "id": 14,
+      "question": "One of the most traditional items of clothing in the UK is the kilt. There are many versions, but the most famous ones are the kilts that men wear in Scotland on special occasions. Traditional Scottish kilts are made with five metres of tartan, which is a fabric with vertical and horizontal lines in different colours. Many Scottish families have a tartan with their own special colours. At the front of their kilts, Scottish men usually wear a small bag called a sporran to carry money and personal items. Scottish women wear a tartan skirt with a blouse and a tartan cloth on their shoulders called a shawl. They may also wear tartan dresses. Find TRUE sentence.",
+      "options": ["+The kilt is traditionally a clothing item for Scottish men.", "The kilt is traditionally a clothing item for Irish men.", "Traditional Scottish kilts are made with six metres of tartan.", "Scottish women wear a tartan with a red blouse and a tartan cloth on their shoulders called a shawl."]
+    },
+    {
+      "id": 15,
+      "question": "In Northern Ireland, traditional Irish step dancing is very popular, and the dancers usually wear special clothes for their performances. Women and girls typically wear a short dress so they can kick up their feet quickly and easily. They sometimes wear tights on their legs, especially when the weather is cold. Men and boys usually wear simple clothes to step dance, such as black trousers, a shirt and a colourful jacket. Find a word with the same meaning in the text: shows for an audience.",
+      "options": ["Traditional", "+Performances", "Weather", "Especially"]
+    },
+    {
+      "id": 16,
+      "question": "What four countries are part of the United Kingdom?",
+      "options": ["England, Wales, Scotland and Ireland", "England, Wales, Scottish and Northern Ireland", "English, Wales, Scotland and Northern Ireland", "+England, Wales, Scotland and Northern Ireland"]
+    },
+    {
+      "id": 17,
+      "question": "What is the nationality of Northern Ireland?",
+      "options": ["English", "Scottish", "+Irish", "Welsh"]
+    },
+    {
+      "id": 18,
+      "question": "I __________ (eat) pizza right now.",
+      "options": ["ate", "+am eating", "eats"]
+    },
+    {
+      "id": 19,
+      "question": "They __________ (go) to the party yesterday.",
+      "options": ["are going", "have gone", "+went", "going"]
+    },
+    {
+      "id": 20,
+      "question": "Yesterday, I ____ (visit) my grandmother and ____ (eat) lunch with her.",
+      "options": ["+visited / ate", "visit / eat", "have visited / have eaten", "visited / have eaten"]
+    },
+    {
+      "id": 21,
+      "question": "I am a three digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
+      "options": ["941", "491", "+194", "0"]
+    },
+    {
+      "id": 22,
+      "question": "He plays the piano really _____________",
+      "options": ["good", "+well", "politely", "honest"]
+    },
+    {
+      "id": 23,
+      "question": "I didn’t _______________ your friends at the concert.",
+      "options": ["met", "meted", "+meet"]
+    },
+    {
+      "id": 24,
+      "question": "By the 1990s, teens were in love with the look and sound of singers like Britney Spears. It was also the decade of ‘boy bands’ and ‘girl bands’ – the Backstreet Boys and the Spice Girls were ‘top of the pops’. Black American music called hip hop became popular internationally. Hip hop stars wore tracksuits, gold rings and necklaces, and they sang about having money and driving expensive cars. Hip hop singers of the 1990s liked __________",
+      "options": ["+wearing jewellery.", "wearing smart suits.", "colourful clothing.", "similar clothing to Taylor Swift and Ed Sheeran."]
+    },
+    {
+      "id": 25,
+      "question": "Look at Dan. He (not concentrate).",
+      "options": ["+doesn’t concentrate", "don’t concentrate", "isn’t concentrating", "doesn’t concentrates"]
+    },
+    {
+      "id": 26,
+      "question": "A: I can’t believe you found your phone! B: I know. I’m so _____________.",
+      "options": ["+happy", "unhappy", "patient", "expensive"]
+    },
+    {
+      "id": 27,
+      "question": "Alfie talks a lot – like his mum! He’s sometimes a bit _____________________ with homework. I try to encourage him to check it, but he doesn’t always do it.",
+      "options": ["confident", "funny", "+careless", "teenage"]
+    },
+    {
+      "id": 28,
+      "question": "Look! It ____ (rain) outside!",
+      "options": ["+is raining", "rains", "raining", "rain"]
+    },
+    {
+      "id": 29,
+      "question": "She ____ (not finish) her homework yet.",
+      "options": ["isn’t finishing", "haven’t finished", "+hasn’t finished", "doesn’t finish"]
+    },
+    {
+      "id": 30,
+      "question": "Which sentence is in the present simple form?",
+      "options": ["I have already seen that movie.", "I saw that movie last night.", "+I see that movie every weekend.", "I am seeing that movie at the moment."]
+    }
+  ]
+}

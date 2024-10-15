@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are you cooking? It …… very nice!",
+      "options": [
+        "is smelling",
+        "+smells",
+        "smelt"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "The stars …… at night.",
+      "options": [
+        "are shining",
+        "shines",
+        "+shine"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A: Do you play basketball at weekends?\nB: Yes, I …… do.",
+      "options": [
+        "never",
+        "+often",
+        "seldom"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "…… you go to the party yesterday?",
+      "options": [
+        "+Did",
+        "Do",
+        "Does"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "The next show …… at 8:30 pm.",
+      "options": [
+        "starting",
+        "+starts",
+        "start"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "We left the concert hall three hours ……",
+      "options": [
+        "before",
+        "last",
+        "+ago"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Have you ever …… to Egypt?",
+      "options": [
+        "be",
+        "+been",
+        "gone"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "George …… a bath at the moment.",
+      "options": [
+        "+is having",
+        "has",
+        "have"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "I …… of buying a new car.",
+      "options": [
+        "think",
+        "+am thinking",
+        "thinks"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "The sun …… in the east.",
+      "options": [
+        "is rising",
+        "rise",
+        "+rises"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Tina is happy because she …… her exams.",
+      "options": [
+        "Passes",
+        "+Has passed",
+        "Have passed"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "This apple pie …… delicious!",
+      "options": [
+        "taste",
+        "+tastes",
+        "is tasting"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "A: Do you listen to the radio?\nB: Yes, I …… do.",
+      "options": [
+        "never",
+        "seldom",
+        "+sometimes"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Tommy usually …… his homework after lunch.",
+      "options": [
+        "do",
+        "+does",
+        "doing"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How long …… you lived here?",
+      "options": [
+        "are",
+        "were",
+        "+have"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Did you …… Madame Tussauds while in London?",
+      "options": [
+        "visiting",
+        "visits",
+        "+visit"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Yesterday, I ______ a delicious chocolate cake.",
+      "options": [
+        "eaten",
+        "eat",
+        "+ate"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "We ______ to the beach last summer.",
+      "options": [
+        "+went",
+        "go",
+        "gone"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "She ______ a beautiful song at the concert.",
+      "options": [
+        "sings",
+        "+sang",
+        "sung"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "He ______ his bike to school this morning.",
+      "options": [
+        "ride",
+        "ridden",
+        "+rode"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "They ______ the game last night.",
+      "options": [
+        "win",
+        "+won",
+        "wined"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "My mom ______ me a new sweater for my birthday.",
+      "options": [
+        "give",
+        "+gave",
+        "given"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "The dog ______ all the food from the table.",
+      "options": [
+        "eat",
+        "+ate",
+        "eaten"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "She ______ her homework before dinner.",
+      "options": [
+        "done",
+        "+did",
+        "do"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "We ______ a funny movie last weekend.",
+      "options": [
+        "see",
+        "+saw",
+        "seen"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "He ______ a picture of the sunset.",
+      "options": [
+        "+took",
+        "taked",
+        "taken"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Choose the right word for the given definition: bad or hurting others",
+      "options": [
+        "hurt",
+        "afraid",
+        "+cruel"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Choose the right word for the given definition: reply",
+      "options": [
+        "+to answer",
+        "to look for in order to kill",
+        "to get to a place"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Choose the right word for the given definition: safe",
+      "options": [
+        "fool",
+        "not seen",
+        "+not worried about being hurt"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Choose the right word for the given definition: solve",
+      "options": [
+        "to guess",
+        "+to find an answer",
+        "to look at something"
+      ]
+    }
+  ]
+}
