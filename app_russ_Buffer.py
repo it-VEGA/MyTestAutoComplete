@@ -4,10 +4,10 @@ import json
 import os
 import pyperclip
 
-path = "items/Gulnara_Juraevna 6 class .json"
+path = "items/Diana 11 class.json"
 
-checkbox_coord = [(192,396),(192,519),(195,642),(195,766)]
-text_area = [(339,366),(314,486),(380,610),(241, 714)]
+checkbox_coord = [(192,396),(192,519),(195,642),(195,766),(191,882)]
+text_area = [(339,366),(314,486),(380,610),(241, 714),(342,858)]
 with open(path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
